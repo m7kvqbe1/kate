@@ -1,0 +1,4 @@
+baseURL = 'https://katehumphris.com/'
+languageCode = 'en-gb'
+title = 'Kate Humphris'
+theme = 'winston'

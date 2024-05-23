@@ -4,6 +4,11 @@
       "name": "linkedin",
       "url": "https://www.linkedin.com/in/katherine-h-68552b33/",
       "image": "images/social/linkedin.svg"
+    },
+    {
+      "name": "github",
+      "url": "https://github.com/m7kvqbe1/kate",
+      "image": "images/social/github.svg"
     }
   ]
 }

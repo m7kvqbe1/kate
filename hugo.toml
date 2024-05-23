@@ -2,7 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 theme = "winston"
 themesDir = "themes"
-title = "katehumphris.com"
 paginate = 3
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true

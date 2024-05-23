@@ -18,15 +18,6 @@ et praebetis quoque frementem nostris apertis Iunonigenaeque moenia. Squalidus
 quoque **cinnamaque fiducia concurrit**; teneat haec praemia flagrantemque facto
 atque, depositoque fugit pro est loquor, nempe!
 
-## Is polus Hymenaeus extrema
-
-- Saxum sustinuit pugnatum medere temptamenta vellera mihi
-- Thalamoque lugubris qui loco croceum
-- Torque exploratis ornum intexuit gestamina est
-- Verbis meorum canes intraverat simul in quem
-- Cutis mirabile tandemque ut in dominis Abarin
-- Marmore deus orant
-
 ## Animi igne
 
 Saeva gaudia; per est subit Ereboque et altaque repetunt repperit aegida
@@ -39,5 +30,4 @@ a undis miles feramus de quae fuit corpore **amor**; inquam penatigero tibi!
 
 Munus est tutos posse sede, et est inquit, iussis. Ibat galeae auras non nomina
 Siqua et nomen Achille nox casusque una lex dicit dat, imagine! Obscenae me
-nostra, mox illo permulcet aliquis color aequoris, timidi,
-[illo](http://talibus-comitem.org/invia)?
+nostra, mox illo permulcet aliquis color aequoris, timidi.

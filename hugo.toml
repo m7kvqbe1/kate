@@ -15,7 +15,7 @@ pygmentsUseClasses = true
 [params]
   google_analytics_id = ""
   showAuthorOnHomepage = true
-  showAuthorOnPosts = false
+  showAuthorOnPosts = true
   showIntroContentOnHomepage = true
   showPostsOnHomepage = true
   usePaginationOnHomepage = false

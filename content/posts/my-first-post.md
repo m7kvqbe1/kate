@@ -4,7 +4,7 @@ date: 2024-05-23
 description: "I’m a content strategist and content designer working with SaaS and technology businesses to design and deliver user-centred content that meets the needs, goals and preferences of the end user."
 ---
 
-## Hos sum o quamvis Thoantis gentes
+## Hos sum o quamvis Thoantis
 
 Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.
 Dixit extulerat; iunctas et [Aeaciden Illa](http://egofateri.net/), visa

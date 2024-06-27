@@ -1,10 +1,20 @@
 ---
-title: My First Post
+title: Integrating content design into an existing design system: Thoughts and process 
 date: 2024-05-23
-description: "I’m a content strategist and content designer working with SaaS and technology businesses to design and deliver user-centred content that meets the needs, goals and preferences of the end user."
+description: Welcome to my first blog post, sharing my thoughts, processes and steps for integrating content design into an existing design system 
 ---
 
-## Hos sum o quamvis Thoantis
+I may be biased, but I really do believe any product's design system is incomplete without a robust content design component. 
+
+Language helps us connect context and intent with visual design. Without a clear idea or, better yet, research into the language that will resonate with your users, you're setting yourself up for misaligned messaging, an inconsistent voice or just a crap/confusing user experience.
+
+Having come across this recently, I thought I'd share my thought process and the steps I'm taking to integrate content into an existing design framework. 
+
+## 1. Assess the situation
+Rather than just ploughing straight in, let's see what we've got here. First step is conducting an audit of the existing components, styles and patterns and identifying the gaps where content plays an essential role but is either inconsistent, lacking or just not there. 
+
+
+
 
 Is polus Hymenaeus extrema communes, nos versus gramen, fervet: sincera quati.
 Dixit extulerat; iunctas et [Aeaciden Illa](http://egofateri.net/), visa

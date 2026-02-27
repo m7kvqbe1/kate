@@ -1,10 +1,10 @@
 ---
-title: Enhancing user experience through strategic content design
-description: I'm a content strategist and content designer working with SaaS and technology businesses to break down silos and create exceptional experiences.
+title: Content Designer
+description: Designing clear digital experiences in complex environments.
 ---
 
-I'm a content strategist and content designer working with SaaS and technology businesses to break down silos and create exceptional experiences.
+## Designing clear digital experiences in complex environments.
 
-With a background in content marketing and communications, I combine research, writing and problem-solving to deliver user-centred content that meets the needs, goals and preferences of real people, not just users. 
+I create structured, user-focused content that helps people navigate complex information with confidence.
 
-My core skills include: user research methodologies, journey mapping, content auditing, content strategy, UX writing and information architecture
+Whether shaping a website's information architecture, improving a digital journey or building a content system, my focus is always the same: clarity, progression and measurable improvement.
